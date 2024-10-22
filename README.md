@@ -6,7 +6,7 @@
          Klavyeden veri girişlerini ve sayılar üzerinde işlemleri öğrendim.
 ## <a style="font-size: 40px;" href="https://github.com/burakhansaruhan/CSharpEgitimKampi/tree/master/03_MakingDecision" target="_blank" title="Ders 3">  📍  Ders 3: Karar Yapıları</a>
          Switch Case ve Karar Yapılarıyla örnekler uyguladım.
-## <a style="font-size: 40px;" href="https://github.com/burakhansaruhan/CSharpEgitimKampi/tree/master/04_Loops" target="_blank" title="Ders 4"> - 📍  Ders 4: Döngüler</a>
+## <a style="font-size: 40px;" href="https://github.com/burakhansaruhan/CSharpEgitimKampi/tree/master/04_Loops" target="_blank" title="Ders 4">  📍  Ders 4: Döngüler</a>
          For ve While döngüsü ile Karar Yapılarını birlikte kullandım ve bir sonuç hesaplama programı yazdım.
 ## <a style="font-size: 40px;" href="https://github.com/burakhansaruhan/CSharpEgitimKampi/tree/master/05_LoopsWithStars" target="_blank" title="Ders 5">  📍  Ders 5: Yıldızlarla Şekiller</a>
          Döngüleri geliştirmek için yıldızlarla bazı şekiller yaptım.
