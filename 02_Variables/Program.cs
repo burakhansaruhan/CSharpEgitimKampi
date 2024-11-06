@@ -168,7 +168,8 @@ namespace _02_Variables
 
             //Console.WriteLine("Seçtiğiniz Cinsiyet: " + gender);
 
-            //#endregion
+            #endregion
+
             Console.Read();
 
         }

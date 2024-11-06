@@ -22,7 +22,7 @@ namespace _09_DatabaseProject
             string tableNumber;
 
             Console.WriteLine("----------------------------------");
-            Console.WriteLine("1-Kategöriler");
+            Console.WriteLine("1-Kategoriler");
             Console.WriteLine("2-Ürünler");
             Console.WriteLine("3-Siparişler");
             Console.WriteLine("4-Çıkış Yap");
@@ -32,7 +32,7 @@ namespace _09_DatabaseProject
 
             NpgsqlConnection connection = new NpgsqlConnection("server=localHost; port=5432; Database=Kamp; user ID=postgres; password=1234");
 
-            NpgsqlCommand command = new NpgsqlCommand("SELECT * FROM public.tblcategory", connection);
+            NpgsqlCommand command = new NpgsqlCommand("SELECT * FROM public.tblproduct", connection);
 
             NpgsqlDataAdapter adapter = new NpgsqlDataAdapter(command);
            
